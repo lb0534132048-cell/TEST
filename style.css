@@ -1,0 +1,14 @@
+body{
+    direction: rtl;
+    background-color: rgb(red, rgb(121, 113, 129), rgb(152, 152, 181));
+  color: dodgerblue;
+  background-color: rgb(153, 196, 222);
+}
+
+ol{
+ background-color: rgb(204, 207, 201);
+
+}
+img{
+    border: 3px cyan;
+}
